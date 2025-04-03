@@ -1,4 +1,4 @@
-# Movie-Recommender
+# Movie-Coach
 Technologies: Python, SQLite, OMDb API 
 
 
