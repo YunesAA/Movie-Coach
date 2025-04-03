@@ -55,7 +55,7 @@ This Python-based application allows users to search for movies, manage a watchl
 - Implement a graphical user interface (GUI).
 - Add support for advanced search filters (e.g., genre, year).
 - Improve the recommendations feature
-
+- Add an option that has Ai recommend movies based on the user's favorites 
 ---
 
 ## License
